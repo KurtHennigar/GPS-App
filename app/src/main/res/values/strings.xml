@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Basic Android Project</string>
     <string name="location_permission_denied">User denied permission for device location.</string>
+    <string name="sync_title">Sync</string>
 </resources>

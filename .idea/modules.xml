@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="create-a-starter-app/app" />
-      <module fileurl="file://$PROJECT_DIR$/create-a-starter-app.iml" filepath="$PROJECT_DIR$/create-a-starter-app.iml" group="create-a-starter-app" />
+      <module fileurl="file://$PROJECT_DIR$/GPS-App.iml" filepath="$PROJECT_DIR$/GPS-App.iml" group="GPS-App" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="GPS-App/app" />
     </modules>
   </component>
 </project>
